@@ -28,6 +28,10 @@
 
 - Download: N/A
 
+## SlipKnotGMS2 (REWRITE) - Game Maker Studio 2 Builds of SlipKnot during the development of the rewrite
+
+### NO BUILDS AVAILABLE
+
 ## SlipKnot_Godot4 - Godot 4 Builds of SlipKnot
 
 ### Build based on last edit - Not built yet
