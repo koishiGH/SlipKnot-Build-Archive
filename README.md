@@ -2,6 +2,10 @@
 
 * A build archive for all versions of SlipKnot (A w.i.p. platformer game that I'm making with some friends).
 
+# TODO:
+
+* Eventually make a website for this lol
+
 # Builds
 
 ## SlipKnot HaxeFlixel - HaxeFlixel Builds of SlipKnot
