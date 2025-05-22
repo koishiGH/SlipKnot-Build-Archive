@@ -38,8 +38,6 @@
 
 ### No builds available - Reason: No gameplay
 
-### N/A - Here for archive purposes
-
 ## SlipKnot Unity (Pre-Alpha Pre-Rewrite) - Unity Builds of SlipKnot's Pre-Alpha - No **PUBLIC** Builds
 
 ### 5/21/2025 Build - Built on 5/21/2025
