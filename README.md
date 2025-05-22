@@ -34,7 +34,7 @@
 
 - Download: N/A
 
-## SlipKnot Unity (LEGACY, NOT PRE-REWRITE OR REWRITE) - Unity Builds of SlipKnot while I was deciding on what eneigne to to use
+## SlipKnot Unity (LEGACY, NOT PRE-REWRITE OR REWRITE) - Unity Builds of SlipKnot while I was deciding on what engine to to use
 
 ### No builds available - Reason: No gameplay
 
